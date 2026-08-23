@@ -9,4 +9,5 @@ div {
   width: 720px;
   height: 720px;
   padding: 10px;
+  color: white; /* change text color */
 }
