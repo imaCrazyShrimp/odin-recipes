@@ -9,6 +9,7 @@ div {
   width: 560px;
   height: 720px;
   padding: 10px;
+  text-align: center;
   color: white; /* change text color */
   border-radius: 10px;
 }
