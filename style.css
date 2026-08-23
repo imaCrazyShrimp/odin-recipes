@@ -1,4 +1,12 @@
 body {
     font-family: Arial, Verdana, sans-serif;
     background-color: white;
+    padding: 15px;
+}
+
+div {
+  background-color: #111844;  
+  width: 720px;
+  height: 720px;
+  padding: 10px;
 }
