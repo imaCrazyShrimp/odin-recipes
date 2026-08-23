@@ -10,4 +10,5 @@ div {
   height: 720px;
   padding: 10px;
   color: white; /* change text color */
+  border-radius: 10px;
 }
