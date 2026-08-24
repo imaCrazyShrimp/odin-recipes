@@ -13,3 +13,11 @@ body {
   border-radius: 10px;
   margin: 10px auto;
 }
+
+#banana-button,
+#broiledsteack-button,
+#chickenfajita-button,
+#curry-button,
+#shokupan-button {
+  text-decoration: none;
+}
