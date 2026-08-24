@@ -4,7 +4,7 @@ body {
     padding: 0px 235px;
 }
 
-div {
+div .card {
   background-color: #111844;  
   width: 560px;
   padding: 10px;
