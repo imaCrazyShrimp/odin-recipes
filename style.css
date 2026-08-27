@@ -25,4 +25,6 @@ body {
 #shokupan-button {
   text-decoration: none;
   display: block;
+  padding: 15px;
+  border: 1px solid red;
 }
