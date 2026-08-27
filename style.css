@@ -14,10 +14,15 @@ body {
   margin: 10px auto;
 }
 
+.menu {
+  display: block;
+}
+
 #banana-button,
 #broiledsteack-button,
 #chickenfajita-button,
 #curry-button,
 #shokupan-button {
   text-decoration: none;
+  display: block;
 }
