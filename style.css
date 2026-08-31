@@ -26,6 +26,7 @@ h1 {
 #curry-button,
 #shokupan-button {
   text-decoration: none;
+  text-align: center;
   display: block;
   padding: 15px;
   background-color: #7288AE;
